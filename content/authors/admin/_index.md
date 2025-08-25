@@ -1,16 +1,16 @@
 ---
 # Display name
-title: 吳健雄
+title: Suraj Sudhakar, M.S.
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Suraj
+last_name: Sudhakar
 
 # Pronouns (optional)
-pronouns: she/her
+pronouns: he/him
 
 # Status emoji
 status:
@@ -23,12 +23,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Research Assistant
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Pritzker School of Molecular Engineering, The Univeristy of Chicago
+    url: https://pme.uchicago.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -50,9 +50,9 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Liquid Crystals
+  - Computational Soft Condensed Matter Physics
+  - Machine Learning/Deep Learning
 
 education:
   - area: PhD Artificial Intelligence
