@@ -14,7 +14,7 @@ pronouns: he/him
 
 # Status emoji
 status:
-  icon: "/media/mugiwara-hat.png"
+  icon: "/media/status.png"
 
 # Is this the primary user of the site?
 superuser: true
