@@ -29,9 +29,9 @@ abstract: Temperature‐accelerated sliced sampling (TASS) is an enhanced sampli
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-# tags:
-# - Source Themes
-# featured: false
+tags:
+ - Neural Networks (AI/ML)
+featured: false
 
 # hugoblox:
   # ids:
