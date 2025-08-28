@@ -14,7 +14,7 @@ pronouns: he/him
 
 # Status emoji
 status:
-  icon: "/media/status.png"
+  icon: 🧐
 
 # Is this the primary user of the site?
 superuser: true
@@ -34,20 +34,20 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'surajsi@uchicago.edu'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  #- icon: brands/x
+    #url: https://twitter.com/GetResearchDev
+  #- icon: brands/instagram
+    #url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/surajsudhakar99
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: [https://www.linkedin.com/](https://www.linkedin.com/in/suraj-sudhakar-a23295178/)
+  #- icon: academicons/google-scholar
+    #url: https://scholar.google.com/
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: [https://orcid.org/](https://orcid.org/0000-0002-4114-9253)
 
 interests:
   - Liquid Crystals
@@ -55,12 +55,12 @@ interests:
   - Machine Learning/Deep Learning
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MS Chemistry
+    institution: Indian Institite of Technology (IIT) Kanpur
+    date_start: 2022-08-01
+    date_end: 2023-05-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on String Method on Neural Network appromimated Free Energy Surface. Supervised by [Prof Nisanth Nair](https://home.iitk.ac.in/~nnair/). Presented papers at an AI-ML Conference.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
