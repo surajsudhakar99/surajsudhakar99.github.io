@@ -43,11 +43,11 @@ profiles:
   - icon: brands/github
     url: https://github.com/surajsudhakar99
   - icon: brands/linkedin
-    url: [https://www.linkedin.com/](https://www.linkedin.com/in/suraj-sudhakar-a23295178/)
+    url: https://www.linkedin.com/in/suraj-sudhakar-a23295178/
   #- icon: academicons/google-scholar
     #url: https://scholar.google.com/
   - icon: academicons/orcid
-    url: [https://orcid.org/](https://orcid.org/0000-0002-4114-9253)
+    url: https://orcid.org/0000-0002-4114-9253
 
 interests:
   - Liquid Crystals
