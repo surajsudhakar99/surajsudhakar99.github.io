@@ -4,7 +4,7 @@ authors:
 - Abhinav Gupta
 - Shivani Verma
 - Ramsha Javed
-- Suraj Sudhakar
+- admin
 - Saurabh Srivastava
 - Nisanth N. Nair
 author_notes:
