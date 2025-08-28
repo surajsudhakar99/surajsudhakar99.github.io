@@ -77,12 +77,4 @@ projects: []
 slides: ""
 ---
 
-# {{% callout note %}}
-# Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-# {{% /callout %}}
-
-# {{% callout note %}}
-# Create your slides in Markdown - click the *Slides* button to check out the example.
-# {{% /callout %}}
-
 My contribution to this work includes training **Artificial Neural Networks (ANNs)** to approximate Free Energy Surfaces obtained from the sampling method, PBTASS, developed by Dr. Abhinav Gupta. The architecture and details are given in the [Supplementary Paper](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fjcc.26882&file=jcc26882-sup-0001-supinfo.pdf). The code was written in **Python** programming language using the **PyTorch** machine learning package.  
