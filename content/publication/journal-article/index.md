@@ -7,9 +7,9 @@ authors:
 - admin
 - Saurabh Srivastava
 - Nisanth N. Nair
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+# author_notes:
+# - "Equal contribution"
+# - "Equal contribution"
 date: "2022-06-30"
 
 # Schedule page publish date (NOT publication's date).
@@ -77,12 +77,12 @@ projects: []
 slides: ""
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
+# {{% callout note %}}
+# Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+# {{% /callout %}}
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
+# {{% callout note %}}
+# Create your slides in Markdown - click the *Slides* button to check out the example.
+# {{% /callout %}}
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+My contribution to this work includes training **Artificial Neural Networks (ANNs)** to approximate Free Energy Surfaces obtained from the sampling method, PBTASS, developed by Dr. Abhinav Gupta. The architecture and details are given in the [Supplementary Paper](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fjcc.26882&file=jcc26882-sup-0001-supinfo.pdf). The code was written in **Python** programming language using the **PyTorch** machine learning package.  
