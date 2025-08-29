@@ -75,10 +75,6 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
-
-title: Reflections from the 2024 Large Language Model (LLM) Hackathon for Applications in Materials Science and Chemistry
-authors:
- - admin et al
 ---
 
 My contribution to this work includes training **Artificial Neural Networks (ANNs)** to approximate Free Energy Surfaces obtained from the sampling method, PBTASS, developed by Dr. Abhinav Gupta. The architecture and details are given in the [Supplementary Paper](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fjcc.26882&file=jcc26882-sup-0001-supinfo.pdf). The code was written in **Python** programming language using the **PyTorch** machine learning package.  
