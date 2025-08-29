@@ -122,11 +122,11 @@ skills:
       - name: COMSOL
         description: ''
         percent: 100
-        icon: fa-solid fa-gears
+        icon: diagram-3
       - name: MATLAB, Mathematica
         description: ''
         percent: 40
-        icon: fas fa-sigma
+        icon: calculator
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -134,33 +134,37 @@ skills:
       - name: Weightlifting
         description: ''
         percent: 60
-        icon: fas fa-dumbbell
+        icon: dumbbell
       - name: Running
         description: ''
         percent: 100
-        icon: fas fa-running
+        icon: run
       - name: Boxing
         description: ''
         percent: 80
-        icon: fas fa-user-shield
+        icon: boxing
 
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Kannada
+    percent: 100
+  - name: Hindi
+    percent: 100
+  - name: Tulu
+    percent: 50
+  - name: Japanese
+    percent: 50
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
+  - title: Prof. Burton J. Moyer Memorial Gold Medal
+    # url: https://www.coursera.org/learn/neural-networks-deep-learning
+    date: '2023-05-01'
+    awarder: Indian Institute of Technology (IIT) Kanpur
     icon: coursera
     summary: |
       I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
