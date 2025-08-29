@@ -122,27 +122,27 @@ skills:
       - name: COMSOL
         description: ''
         percent: 100
-        icon: fas fa-project-diagram
-      - name: SQL
+        icon: fa-solid fa-gears
+      - name: MATLAB, Mathematica
         description: ''
         percent: 40
-        icon: circle-stack
+        icon: fas fa-sigma
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Weightlifting
         description: ''
         percent: 60
-        icon: person-simple-walk
-      - name: Cats
+        icon: fas fa-dumbbell
+      - name: Running
         description: ''
         percent: 100
-        icon: cat
-      - name: Photography
+        icon: fas fa-running
+      - name: Boxing
         description: ''
         percent: 80
-        icon: camera
+        icon: fas fa-user-shield
 
 languages:
   - name: English
@@ -185,4 +185,4 @@ awards:
 ---
 
 ## About Me
-Suraj Sudhakar is a 3rd year PhD student in the Pritzker School of Molecular Engineering ([PME](https://pme.uchicago.edu)), The University of Chicago, under the guidance of [Prof. Juan J. de Pablo](https://engineering.nyu.edu/faculty/juan-de-pablo). He specializes in computational study of Liquid Crystal (LC) systems using the Q-tensor formulation, including their response to external field. In addition, he engages in outreach activities to spread Science to the local community. 
+Suraj Sudhakar is a 3rd year PhD student in the Pritzker School of Molecular Engineering (PME), The University of Chicago, under the guidance of [Prof. Juan J. de Pablo](https://engineering.nyu.edu/faculty/juan-de-pablo). He specializes in computational study of Liquid Crystal (LC) systems using the Q-tensor formulation, including their response to external field. In addition, he engages in outreach activities to spread Science to the local community. 
