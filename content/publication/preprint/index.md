@@ -1,7 +1,7 @@
 ---
 title: "Reflections from the 2024 Large Language Model (LLM) Hackathon for Applications in Materials Science and Chemistry"
 authors:
-- Rauijie Zhu
+- Ruijie Zhu
 - Faradawn Yang
 - Andrew Qin
 - Jaehee Park
