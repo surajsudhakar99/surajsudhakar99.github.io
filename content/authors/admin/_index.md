@@ -122,13 +122,11 @@ skills:
       - name: COMSOL
         description: ''
         percent: 100
-        icon: fa-project-diagram
-        icon_pack: fas
+        icon: gear
       - name: MATLAB, Mathematica
         description: ''
         percent: 40
-        icon: fas fa-sigma
-        icon_pack: fas
+        icon: chart-line
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -136,18 +134,15 @@ skills:
       - name: Weightlifting
         description: ''
         percent: 60
-        icon: fas fa-dumbbell
-        icon_pack: fas
+        icon: weight
       - name: Running
         description: ''
         percent: 100
-        icon: fas fa-running
-        icon_pack: fas
+        icon: excercise
       - name: Boxing
         description: ''
         percent: 80
-        icon: fas fa-user-shield
-        icon_pack: fas
+        icon: combat
 
 languages:
   - name: English
