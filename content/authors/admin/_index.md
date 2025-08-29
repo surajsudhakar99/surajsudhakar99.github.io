@@ -60,32 +60,33 @@ education:
     date_start: 2022-08-01
     date_end: 2023-05-31
     summary: |
-      Thesis on String Method on Neural Network appromimated Free Energy Surface. Supervised by [Prof Nisanth Nair](https://home.iitk.ac.in/~nnair/). Presented papers at an AI-ML Conference.
+      Analysis of High Dimensional Free Energy Landscapes. Supervised by [Prof Nisanth Nair](https://home.iitk.ac.in/~nnair/). Presented the thesis at the AI-ML Conference, Kodaikanal, India.
+      *Thesis PDF available upon request.*
     button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      text: 'Request Thesis PDF'
+      url: 'mailto:surajsi@uchicago.edu?subject=Thesis%20Access%20Request:%20MS%20Chemistry%20(IITK)&body=Hello,%20I%20would%20like%20to%20request%20access%20to%20your%20MS%20Thesis%20PDF.'
+  - area: BS Chemistry
+    institution: Indian Institute of Technology (IIT) Kanpur
+    date_start: 2018-08-01
+    date_end: 2022-05-31
     summary: |
-      GPA: 3.8/4.0
+      CGPA: 9.4/10.0
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
+      - Computer Programming for Chemistry
+      - Molecular Modelling in Chemistry
+      - Nature and Properties of Materials
+  # - area: BSc Artificial Intelligence
+    # institution: Massachusetts Institute of Technology
+    # date_start: 2016-01-01
+    # date_end: 2020-12-31
+    # summary: |
+    #  GPA: 3.4/4.0
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+     # Courses included:
+     # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+     # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+     # - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
