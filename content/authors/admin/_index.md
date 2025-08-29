@@ -115,14 +115,14 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: Julia, Python
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: COMSOL
         description: ''
         percent: 100
-        icon: chart-bar
+        icon: fas fa-project-diagram
       - name: SQL
         description: ''
         percent: 40
@@ -185,5 +185,4 @@ awards:
 ---
 
 ## About Me
-
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Suraj Sudhakar is a 3rd year PhD student in the Pritzker School of Molecular Engineering ([PME](https://pme.uchicago.edu)), The University of Chicago, under the guidance of [Prof. Juan J. de Pablo](https://engineering.nyu.edu/faculty/juan-de-pablo). He specializes in computational study of Liquid Crystal (LC) systems using the Q-tensor formulation, including their response to external field. In addition, he engages in outreach activities to spread Science to the local community. 
